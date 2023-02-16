@@ -1,0 +1,23 @@
+.app {
+    text-align: center;
+    background-color:rgb(13, 232, 192);
+    padding: 20px;
+   border: 5px solid
+  }
+  .count{
+    font-size: 39px;
+    color: black
+  
+  }
+  .app button {
+      color: white;
+       background-color: red;
+      border-radius: 10px;
+      font-size: larger;
+      display: block;
+      padding: 5px;
+      margin: 10px auto;
+    
+  }
+   
+  
